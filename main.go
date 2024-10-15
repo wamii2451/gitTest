@@ -8,5 +8,4 @@ import (
 func main() {
 	x := wana.GetXArray(0.01, 10, true)
 	fmt.Println(x)
-
 }
